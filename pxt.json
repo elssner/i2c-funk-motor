@@ -1,5 +1,5 @@
 {
-    "name": "kran-motor",
+    "name": "i2c-kran-motor",
     "description": "",
     "dependencies": {
         "core": "*",
